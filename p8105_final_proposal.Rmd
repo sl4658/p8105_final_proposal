@@ -4,7 +4,7 @@ output: github_document
 ---
 
 The group members (names and UNIs):
-  Simin Ling (sl4658), 
+  Simin Ling (sl4658), Yi Sun (ys3297)
 
 The tentative project title:
 
