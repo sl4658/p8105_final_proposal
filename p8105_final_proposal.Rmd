@@ -1,0 +1,19 @@
+---
+title: "p8105_final_proposal"
+output: github_document
+---
+
+The group members (names and UNIs):
+  Simin Ling (sl4658), 
+
+The tentative project title:
+
+The motivation for this project:
+
+The intended final products:
+
+The anticipated data sources:
+
+The planned analyses / visualizations / coding challenges:
+
+The planned timeline:
